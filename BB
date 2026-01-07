@@ -1,0 +1,6 @@
+bayoubathrooms/
+├── index.html
+├── styles.css
+├── images/
+├── README.md
+└── LICENSE
